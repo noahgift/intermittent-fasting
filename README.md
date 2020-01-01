@@ -7,6 +7,18 @@ I have experimented mainly with Daily fasts of 16 hours or 20 hours. As a data s
 
 [Datascience meets intermittent fasting](https://noahgift.com/articles/datascience-meets-intermittent-fasting/)
 
+## References
+
+* [Glycemic index for 60+ foods](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
+* https://en.wikipedia.org/wiki/Citric_acid_cycle
+* https://www.health.harvard.edu/staying-healthy/eating-more-ultra-processed-foods-may-shorten-life-span
+* https://en.wikipedia.org/wiki/Travelling_salesman_problem
+* https://github.com/noahgift/or
+* https://www.dietdoctor.com/intermittent-fasting
+* https://github.com/noahgift/intermittent-fasting/blob/master/intermittent_fasting.ipynb
+* https://www.nejm.org/doi/10.1056/NEJMra1905136
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3151731/
+
 ### Additional Related Topics from Noah Gift
 
 His most recent books are:
