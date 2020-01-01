@@ -9,7 +9,7 @@ I have experimented mainly with Daily fasts of 16 hours or 20 hours. As a data s
 
 ## Article and Research on Food Selection
 
-[Weight gain by macronutrient and insulin response]https://github.com/noahgift/intermittent-fasting/blob/master/weight_gain_foods.ipynb
+[Weight gain by macronutrient and insulin response](https://github.com/noahgift/intermittent-fasting/blob/master/weight_gain_foods.ipynb)
 
 A. High Carbohydrate foods appear to be the strongest correlation with weight gain.
 
