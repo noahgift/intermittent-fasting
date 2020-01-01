@@ -18,6 +18,7 @@ I have experimented mainly with Daily fasts of 16 hours or 20 hours. As a data s
 * https://github.com/noahgift/intermittent-fasting/blob/master/intermittent_fasting.ipynb
 * https://www.nejm.org/doi/10.1056/NEJMra1905136
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3151731/
+* [FoodData Central USDA](https://fdc.nal.usda.gov/)
 
 ### Additional Related Topics from Noah Gift
 
