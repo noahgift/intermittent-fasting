@@ -1,11 +1,23 @@
 # intermittent-fasting
-Data Science around intermittent fasting
+Data Science around intermittent fasting and data science based Nutrition
 
-## Article 
+## Article and Research on IF
 
 I have experimented mainly with Daily fasts of 16 hours or 20 hours. As a data scientist, nutritionist and serious athlete, I also come with data. I have data from 2011-2019 of my body weight.
 
 [Datascience meets intermittent fasting](https://noahgift.com/articles/datascience-meets-intermittent-fasting/)
+
+## Article and Research on Food Selection
+
+[Weight gain by macronutrient and insulin response]https://github.com/noahgift/intermittent-fasting/blob/master/weight_gain_foods.ipynb
+
+A. High Carbohydrate foods appear to be the strongest correlation with weight gain.
+
+B. Fat and Protein are essentially neutral
+
+C. Total Calories and glycemic index are equally as correlated with weight gain.
+
+One firm conclusion would be to avoid calorically dense, high carbohydrate foods that have a high glycemic index: i.e. French Fries.
 
 ## References
 
