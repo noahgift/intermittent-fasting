@@ -1,0 +1,18 @@
+food,4-year-change-per-serving-day-lb,glycemic-index,calories-100g-100ml,carbs-perc-calories,carb-fat-perc-calories,protein-fat-perc-calories,carbs,protein,fat,sodium-mg,sugars,fiber,url
+unprocessed red meats (rib eye),0.95,0.00,217.00,0.00,0.63,0.65,0.11,19.80,15.21,60.00,0.00,0.00,https://fdc.nal.usda.gov/fdc-app.html#/food-details/173975/nutrients
+yogurt (low-fat),-0.82,41.00,61.00,0.62,0.75,0.44,9.41,5.88,0.88,62.00,9.41,0.00,https://fdc.nal.usda.gov/fdc-app.html#/food-details/516379/nutrients
+cheese (chedder),0.23,0.00,404.00,0.03,0.77,0.56,3.09,22.87,33.31,653.00,0.48,0.00,https://fdc.nal.usda.gov/fdc-app.html#/food-details/336711/nutrients
+processed meats (kosher salami),0.93,0.00,261.00,0.03,0.80,0.53,1.90,12.60,22.20,1140.00,1.50,0.00,https://fdc.nal.usda.gov/fdc-app.html#/food-details/337490/nutrients
+low-fat milk,0.06,37.00,62.00,0.65,0.80,0.28,10.00,3.33,1.04,52.00,9.17,0.40,https://fdc.nal.usda.gov/fdc-app.html#/food-details/502128/nutrients
+whole-fat milk,-0.06,39.00,62.00,0.32,0.81,0.43,5.00,3.33,3.33,44.00,5.00,0.00,https://fdc.nal.usda.gov/fdc-app.html#/food-details/579707/nutrients
+whole grains (oatmeal),-0.37,58.00,61.00,0.72,0.87,0.21,10.95,2.13,1.05,121.00,0.16,1.60,https://fdc.nal.usda.gov/fdc-app.html#/food-details/340420/nutrients
+mashed potatoes,0.57,85.00,89.00,0.66,0.94,0.20,14.65,1.65,2.82,306.00,0.50,1.30,https://fdc.nal.usda.gov/fdc-app.html#/food-details/341926/nutrients
+nuts (walnuts raw),-0.57,14.00,679.00,0.08,0.95,0.47,13.71,15.23,65.21,2.00,2.61,6.70,https://fdc.nal.usda.gov/fdc-app.html#/food-details/170187/nutrients
+french fries (McDONALD'S),3.35,63.00,323.00,0.53,0.96,0.23,42.58,3.41,15.47,189.00,0.21,3.90,https://fdc.nal.usda.gov/fdc-app.html#/food-details/170721/nutrients
+potato chip,1.69,56.00,536.00,0.43,0.97,0.29,57.14,7.14,32.14,429.00,7.14,3.60,https://fdc.nal.usda.gov/fdc-app.html#/food-details/407954/nutrients
+sweets and deserts (ice cream choc),0.41,51.00,216.00,0.52,0.98,0.27,28.20,3.80,11.00,76.00,25.36,1.20,https://fdc.nal.usda.gov/fdc-app.html#/food-details/168809/nutrients
+vegatables (carrot),-0.22,39.00,41.00,0.94,0.99,0.11,9.58,0.93,0.24,69.00,4.74,2.80,https://fdc.nal.usda.gov/fdc-app.html#/food-details/342354/nutrients
+butter (salted),0.30,0.00,717.00,0.00,1.02,0.46,0.06,0.85,81.11,643.00,0.06,0.00,https://fdc.nal.usda.gov/fdc-app.html#/food-details/173410/nutrients
+sugar-sweetened beverages (coke),1.00,59.00,42.00,0.99,1.04,0.02,10.36,0.00,0.25,3.00,9.94,0.00,https://fdc.nal.usda.gov/fdc-app.html#/food-details/344344/nutrients
+fruits (apple raw),-0.49,38.00,52.00,1.06,1.09,0.03,13.81,0.26,0.17,1.00,10.39,2.40,https://fdc.nal.usda.gov/fdc-app.html#/food-details/341508/nutrients
+refined grains (white bread/flour),0.39,75.00,279.00,1.07,1.18,0.18,74.42,9.30,3.49,558.00,4.70,2.30,https://fdc.nal.usda.gov/fdc-app.html#/food-details/603270/nutrients
