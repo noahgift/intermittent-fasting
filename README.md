@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3596492.svg)](https://doi.org/10.5281/zenodo.3596492)
+
 # intermittent-fasting
 Data Science around intermittent fasting and data science based Nutrition
 
