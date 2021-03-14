@@ -3,6 +3,10 @@
 # intermittent-fasting
 Data Science around intermittent fasting and data science based Nutrition
 
+
+![wt-gain-food](https://user-images.githubusercontent.com/58792/111069011-7277ff80-84a1-11eb-9ceb-c883b0a206c0.png)
+
+
 ## Article and Research on IF
 
 I have experimented mainly with Daily fasts of 16 hours or 20 hours. As a data scientist, nutritionist and serious athlete, I also come with data. I have data from 2011-2019 of my body weight.
